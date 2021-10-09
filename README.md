@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[Demo File](https://github.com/AlvinlolZ/Parstagram/blob/main/Demo/Demo.gif)
+![Demo File](https://github.com/AlvinlolZ/Parstagram/blob/main/Demo/Demo.gif)
